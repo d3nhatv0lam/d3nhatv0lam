@@ -16,6 +16,9 @@
   <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank">
     <img src="https://skillicons.dev/icons?i=cs" alt="c#"/>
   </a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cpp" alt="c++"/>
+  </a>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=python" alt="python"/>
   </a>
