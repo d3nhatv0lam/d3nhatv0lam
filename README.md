@@ -38,9 +38,7 @@
 
 ---
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3nhatv0lam&layout=compact" alt="Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=d3nhatv0lam&show_icons=true&hide_title=true" alt="Stats" />
-</div>
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 
 
